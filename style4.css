@@ -1,0 +1,32 @@
+
+
+body{
+    direction: rtl;
+    background-color: turquoise;
+}
+
+.pp{text-align: left;
+
+}
+
+table {
+    margin: auto;
+    border-collapse: collapse;
+    border-style: solid;
+    width:70%;
+}
+
+td,th {
+    text-align: right;
+    padding:8px;
+    border-style: solid;
+
+}
+
+.tabel1{
+    text-align: center;
+ 
+}
+th{
+    background-color: thistle;
+}

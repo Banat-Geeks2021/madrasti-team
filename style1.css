@@ -1,0 +1,50 @@
+body{
+    background-color: #A39FA1;
+}
+#div1{
+    text-align: center;
+}
+
+h1{
+    margin-bottom: 40px;
+}
+#div2{
+margin: auto;   
+ width: 400px;
+ height: 305px;
+ border-top: 5px solid;
+ border-left: 5px solid;
+ border-right: 5px solid;
+border-bottom: 5px solid;
+}
+.pp{
+    text-align: left;
+}
+input{background-color: thistle;}
+
+
+.home{
+    display: flex;
+    flex-direction: row;
+    margin-top: 50px;
+
+}
+
+input{
+    padding: 5px;
+    background-color: rgba(245, 96, 200, 0.897);
+    width:70px;;
+    width:70px;
+    font-size: 20px;
+    border-radius: 30%;
+    border-style: none;
+    transition: width 2s;
+
+}
+
+input:hover{
+    background-color: rgba(245, 96, 200, 0.897);
+    width:70px;;
+    width: 80px;
+}
+ 

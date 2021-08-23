@@ -1,0 +1,28 @@
+#k{text-align: left;
+
+}
+
+#kimg{
+    text-align: center;
+}
+div{direction: rtl;}
+hr{width: 20%;
+
+}
+
+input{
+    padding: 5px;
+    background-color: rgb(128, 20, 101);
+    width:70px;
+    font-size: 20px;
+    border-radius: 30%;
+    border-style: none;
+    transition: width 2s;
+
+}
+
+input:hover{
+    background-color: rgb(184, 57, 152);
+    width: 80px;
+}
+body{background-color: turquoise;}

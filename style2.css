@@ -1,0 +1,49 @@
+body{
+    direction: rtl;
+    background-color: turquoise;
+}
+
+.header{
+    text-align: center;
+
+}
+
+form{
+    margin-right: 70px;
+}
+.inputLog{
+    text-align: center;
+}
+.pp{text-align: left;
+
+}
+input{background-color: thistle;
+
+}
+input{
+    padding: 5px;
+    background-color: rgba(219, 25, 155, 0.781);
+    width:130px;
+    font-size: 20px;
+    border-radius: 30%;
+    border-style: none;
+    transition: width 2s;
+
+}
+
+input:hover{
+    background-color: rgba(57, 133, 184, 0.938);
+    width: 140px;
+}
+body{background-color: turquoise;}
+
+
+input:hover{
+    background-color: rgb(184, 57, 152);
+    width: 80px;
+}
+body{background-color: turquoise;}
+
+
+
+
